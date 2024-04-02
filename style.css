@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Chilanka&family=Dancing+Script:wght@400..700&family=Kranky&family=Pangolin&family=Single+Day&display=swap');
+
+:root{
+    --cor-de-fundo: #C0D494;
+    --branco: #FBF6F6;
+    --branco-transparente: rgba(251, 246, 246, 0.25);
+    --preto: #1B1B1B;
+    --cinza: #D1D1D1;
+    --verde: #98A785;
+    --verde-transparente: rgba(152, 167, 133, 0.5);
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-transparente);
+}
