@@ -12,5 +12,10 @@
 
 body{
     background-color: var(--cor-de-fundo);
-    color: var(--branco-transparente);
+    color: var(--branco);
+    .kranky-regular {
+        font-family: "Kranky", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
 }
